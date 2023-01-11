@@ -1,5 +1,8 @@
 Copyright © 2023 Bocada LLC All Rights Reserved.
 
+# PowerBI-Template
+Bocada Power BI Report Templates
+
 # Introduction
 This repository includes some Bocada Power BI report templates and the guide how to use the templates to create and import the Bocada reports in your Power BI instance.
 
