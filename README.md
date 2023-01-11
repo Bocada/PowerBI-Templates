@@ -44,5 +44,5 @@ This repository contains the following Power BI template reports for Bocada.
 	
 	
 # Steps
-All the steps can be found in the file Bocada_PowerBI_Templates_Guide.docx.
+All the steps can be found in the file Bocada_PowerBI_Templates_Guide.pdf.
 
