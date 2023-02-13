@@ -15,9 +15,13 @@ Power BI online Service needs to have access to Bocada Database to refresh the d
 This repository contains the following Power BI template reports for Bocada. 
 
 •	Bocada_Reports (all together).pbit: you can get all the Bocada reports in one Power BI file.
+
 •	Bocada_Backups_Reports.pbit: contains only the Bocada Backup reports.
+
 •	Bocada_StoreOnce_Reports.pbit: contains only the Bocada Storage Once reports.
+
 •	Bocada_DataDomain_Reports.pbit: contains only the Bocada Data Domain reports.
+
 
 You can get each separeted report:
 	•	Backup Health
